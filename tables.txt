@@ -1,3 +1,8 @@
+Usefull Links:
+https://www.startertutorials.com/uml/resources/lms/LMS1.pdf
+https://github.com/lazychaser/laravel-nestedset
+https://www.c-sharpcorner.com/UploadFile/ea3ed6/database-design-for-library-management-system/
+
 Tables:
 
 users
